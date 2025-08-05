@@ -26,7 +26,7 @@ Desarrollado por **Mag Dev** como parte de su portafolio profesional.
 
 ## 🔗 Sitio en vivo
 
-- GitHub Pages: [https://magdevwebsfrontend.github.io/plantilla-web-mercado/](https://magdevwebsfrontend.github.io/plantilla-web-mercado/)
+- GitHub Pages: [https://magdevwebsfrontend.github.io/mi-mercado/](https://magdevwebsfrontend.github.io/mi-mercado/)
 - Vercel: *(Agregar el enlace después de desplegar)*
 
 ---
