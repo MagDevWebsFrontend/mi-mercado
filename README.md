@@ -27,7 +27,7 @@ Desarrollado por **Mag Dev** como parte de su portafolio profesional.
 ## 🔗 Sitio en vivo
 
 - GitHub Pages: [https://magdevwebsfrontend.github.io/mi-mercado/](https://magdevwebsfrontend.github.io/mi-mercado/)
-- Vercel: *(Agregar el enlace después de desplegar)*
+- Vercel: [https://mi-mercado.vercel.app/](https://mi-mercado.vercel.app/)
 
 ---
 
